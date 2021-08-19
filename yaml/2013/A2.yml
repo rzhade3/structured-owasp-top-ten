@@ -1,0 +1,3 @@
+---
+title: Broken Authentication and Session Management
+description: Application functions related to authentication and session management are often not implemented correctly, allowing attackers to compromise passwords, keys, or session tokens, or to exploit other implementation flaws to assume other users’ identities.

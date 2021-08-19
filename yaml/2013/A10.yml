@@ -1,0 +1,3 @@
+---
+title: Unvalidated Redirects and Forwards
+description: Web applications frequently redirect and forward users to other pages and websites, and use untrusted data to determine the destination pages. Without proper validation, attackers can redirect victims to phishing or malware sites, or use forwards to access unauthorized pages.

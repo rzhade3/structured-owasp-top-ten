@@ -1,0 +1,3 @@
+---
+title: Failure to Restrict URL Access
+description: Many web applications check URL access rights before rendering protected links and buttons. However, applications need to perform similar access control checks each time these pages are accessed, or attackers will be able to forge URLs to access these hidden pages anyway.

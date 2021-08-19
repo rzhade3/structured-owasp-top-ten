@@ -1,0 +1,3 @@
+---
+title: Insufficient Transport Layer Protection
+description: Applications frequently fail to authenticate, encrypt, and protect the confidentiality and integrity of sensitive network traffic. When they do, they sometimes support weak algorithms, use expired or invalid certificates, or do not use them correctly.
