@@ -1,3 +1,0 @@
----
-title: Insecure Cryptographic Storage
-description: Many web applications do not properly protect sensitive data, such as credit cards, SSNs, and authentication credentials, with appropriate encryption or hashing. Attackers may steal or modify such weakly protected data to conduct identity theft, credit card fraud, or other crimes.
